@@ -5,6 +5,9 @@
     <img src="frontend/src/assets/Logo.png" alt="Logo" height="100" resize>
   </a>
   <h3 align="center">Pack5</h3>
+  <p align="center">
+    <a href="https://pack5.harinwu.com"><strong>Try it out! »</strong></a>
+  </p>
 </p>
 
 
@@ -61,7 +64,7 @@ To get a local copy up and running follow these simple steps.
 <!-- DEPLOYMENT -->
 ## Deployment
 
-TODO
+AWS Amplify
 
 <!-- CONTRIBUTING -->
 ## Contributing
